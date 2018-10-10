@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\kulhanek\bin\createDb30.bat" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/bin" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/kulhanek/bin" />
     </exec>
   </tool>
 </toolSet>
