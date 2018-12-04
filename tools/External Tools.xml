@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="createDB30.bat" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="createDBAdhoc" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\Users\kulhanek\bin\createDb30.bat" />
+      <option name="COMMAND" value="C:\Users\kulhanek\bin\createDbAdhoc.bat" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Users/kulhanek/bin" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/bin" />
     </exec>
   </tool>
 </toolSet>

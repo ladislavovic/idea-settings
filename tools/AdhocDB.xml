@@ -1,0 +1,9 @@
+<toolSet name="AdhocDB">
+  <tool name="createDB30.bat" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\kulhanek\bin\createDb30.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/bin" />
+    </exec>
+  </tool>
+</toolSet>
