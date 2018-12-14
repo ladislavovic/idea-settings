@@ -13,8 +13,8 @@
     <mask>CA*Value.java</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.xsd</mask>
     <mask>*.mxml</mask>
     <mask>pom.xml</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
