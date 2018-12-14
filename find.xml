@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.mxml" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -16,5 +16,6 @@
     <mask>*.java</mask>
     <mask>*.xsd</mask>
     <mask>*.mxml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
