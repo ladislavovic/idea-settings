@@ -4,18 +4,17 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
-    <mask>*.xml</mask>
     <mask>CA*Value.java</mask>
     <mask>*.java</mask>
     <mask>*.mxml</mask>
     <mask>*.xsd</mask>
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
