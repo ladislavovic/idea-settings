@@ -16,5 +16,6 @@
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>web.xml</mask>
   </component>
 </application>
