@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Macro Select Line">
-      <action id="EditorLineStart" />
-      <action id="EditorDownWithSelection" />
-    </macro>
-  </component>
-</application>
