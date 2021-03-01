@@ -1,0 +1,33 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.cross-ni.com" />
+          <option name="userName" value="ladislav.kulhanek" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="ladislavovic" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.sykora.cz" />
+          <option name="userName" value="ladislav.kulhanek" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/tmp" />
+  </component>
+</application>
