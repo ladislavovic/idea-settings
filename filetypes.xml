@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="regex" type="AUTO_DETECTED" />
       <mapping ext="tpl" type="FTL" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <removed_mapping ext="adoc" approved="true" type="PLAIN_TEXT" />
