@@ -2,10 +2,14 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="regex" type="AUTO_DETECTED" />
+      <removed_mapping pattern=".springBeans" type="Eclipse" />
       <mapping ext="tpl" type="FTL" />
+      <removed_mapping ext="gson" type="Groovy" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping pattern="spring.handlers" type="Properties" />
+      <removed_mapping pattern="spring.schemas" type="Properties" />
       <removed_mapping ext="adoc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
