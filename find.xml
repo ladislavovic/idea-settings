@@ -8,7 +8,6 @@
     <mask>log4j*</mask>
     <mask>deploy.properties</mask>
     <mask>*.tpl</mask>
-    <mask>pom.xml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,5 +15,6 @@
     <mask>*Dto.java</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
