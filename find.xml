@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="messages*" />
     <mask>*ignore</mask>
     <mask>*.prope</mask>
     <mask>log4j*</mask>
@@ -18,5 +18,6 @@
     <mask>pom.xml</mask>
     <mask>log4j.properties</mask>
     <mask>*.properties</mask>
+    <mask>messages*</mask>
   </component>
 </application>
