@@ -6,6 +6,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <removed_mapping ext="adoc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="gson" approved="true" type="Groovy" />
