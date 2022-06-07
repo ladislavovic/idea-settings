@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Converter*" />
     <mask>*ignore</mask>
     <mask>*.prope</mask>
     <mask>log4j*</mask>
@@ -21,5 +20,6 @@
     <mask>messages*</mask>
     <mask>pom.xml</mask>
     <mask>*Model*</mask>
+    <mask>*Converter*</mask>
   </component>
 </application>
