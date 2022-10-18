@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*ignore</mask>
     <mask>*.prope</mask>
     <mask>log4j*</mask>
@@ -18,7 +19,7 @@
     <mask>messages*</mask>
     <mask>*Model*</mask>
     <mask>*Converter*</mask>
-    <mask>*.properties</mask>
     <mask>pom.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
